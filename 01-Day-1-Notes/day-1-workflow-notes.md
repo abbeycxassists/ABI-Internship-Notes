@@ -3,9 +3,8 @@
 ## 1. Technical and Admin Setup
 
 - GitHub was mentioned for technical work.
-- Admin access may be needed when working with data.
+- Admin access is needed when working with data.
 - Naming conventions are important to keep files and projects organized.
-- One technical email/account may be used for access to tools.
 
 ## 2. Marketing and Tech Collaboration
 
