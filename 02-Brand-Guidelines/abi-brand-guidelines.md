@@ -628,7 +628,7 @@ Important:
 - Vector files can scale without losing quality.
 - Use vector files when a high-resolution logo is needed.
 
-## 36. Key Takeaways
+## 36. Key Ideas
 
 ABI's brand is built around:
 
